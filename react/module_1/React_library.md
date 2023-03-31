@@ -1,4 +1,4 @@
-[Home](../README.md) / [React JS](./README_REACT.md)
+[Home](../../README.md) / [React JS](../README_REACT.md)
 
 # Бібліотека React
 
