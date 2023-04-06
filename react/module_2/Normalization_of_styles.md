@@ -12,10 +12,8 @@
 /* Решта стилів файлів */
 ```
 
-```
-НАЛАШТУВАННЯ VSCODE
-Якщо у VSCode ви бачите попередження «Unknown at rule @import-normalize css(unknownAtRules)», змініть у редакторі значення налаштування css.lint.unknownAtRules на ignore.
-```
+> :information_source: **НАЛАШТУВАННЯ VSCODE**\
+Якщо у VSCode ви бачите попередження `«Unknown at rule @import-normalize css(unknownAtRules)»`, змініть у редакторі значення налаштування `css.lint.unknownAtRules` на `ignore`.
 
 Залишилось імпортувати файл стилів `index.css` з підключеною нормалізацією в JavaScript модуль, наприклад в кореневий файл програми `index.js` або у файл компонента `App.js`.
 
